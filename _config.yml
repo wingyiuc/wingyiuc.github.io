@@ -1,2 +1,3 @@
 name: Chan Wing Yiu
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
