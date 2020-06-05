@@ -4,4 +4,4 @@ title: "Chan Wing Yiu, first post"
 date: 2020-06-03
 ---
 
-My first post hehe :P
+This is the first time trying out git pages. I have no prior experiences in html but this is fun!
