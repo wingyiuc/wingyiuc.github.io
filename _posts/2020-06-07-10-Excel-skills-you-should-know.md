@@ -132,4 +132,5 @@ If-else logic is the basic element of programming and it is essential in constru
 
 
 
-These are the basic Excel skills that most of us would know. In the next tutorial, I will show how to construct trading strategy backtesting with Excel and plottin the profit & loss graph like this: ![](images/backtesting%20pnl%20graph.png)
+These are the basic Excel skills that most of us would know. In the next tutorial, I will show how to construct trading strategy backtesting with Excel and plottin the profit & loss graph like this: 
+![image of backtesting pnl](wingyiuc.github.io/_posts/images/backtesting%20pnl%20graph.png)
